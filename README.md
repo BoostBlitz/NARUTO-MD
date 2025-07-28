@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/franceking1/Flash-Md-V2.git"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/franceking1/Flash-Md-V2.git"><img title="Status" src="https://img.shields.io/badge/Status-Development-orange.svg?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/franceking1/Flash-Md-V2.git"><img title="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/BoostBlitz/NARUTO-MD.git"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/BoostBlitz/NARUTO-MD.git"><img title="Status" src="https://img.shields.io/badge/Status-Development-orange.svg?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/BoostBlitz/NARUTO-MD.git"><img title="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
