@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/C0TPc3S/naruto-banner.png" alt="Naruto-MD Banner">
+  <img src="https://files.catbox.moe/8tj44f.jpeg" alt="Naruto-MD Banner">
   <br><br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40¢er=true&vCenter=true&width=800&height=70&duration=4000&lines=Welcome+to+Naruto-MD+v1;A+New+Era+of+WhatsApp+Bots;Built+for+Power+and+Elegance" alt="Typing SVG">
